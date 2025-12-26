@@ -1,0 +1,1 @@
+Species-like starter project. See files in this folder.

@@ -1,0 +1,11 @@
+torch
+torchvision
+scikit-learn
+pillow
+numpy
+pandas
+streamlit
+wikipedia
+gTTS
+joblib
+kaggle
